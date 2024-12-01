@@ -9,7 +9,15 @@
 
 - 🌟 Aspiring Full-Stack Developer: As I approach the end of my academic journey, I am eager to enhance my full-stack development skills. I enjoy working on both front-end and back-end technologies and am excited about building dynamic, user-friendly applications
 
-- 
+- 🔍 Currently Seeking Job Opportunities: I am actively looking for a position as a Full-Stack Developer where I can apply my skills and contribute to innovative projects. If you know of any opportunities or would like to connect, feel free to reach out!
+
+Hobbies
+🌍 Traveling: I love exploring new cultures and landscapes around the world. Each journey brings new experiences and inspiration.
+💪 Working Out: Staying active is important to me, and I enjoy hitting the gym to maintain a healthy lifestyle and boost my energy.
+🎉 Socializing: I enjoy going out with friends, whether it’s trying new restaurants, attending events, or just hanging out.
+💻 Coding: Of course, coding is one of my biggest passions! I love tackling new challenges and building innovative projects.
+🎸 Playing Guitar: In my free time, I enjoy playing the guitar. Music is a great way to relax and express creativity.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shlomihaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomihaser" height="30" width="40" /></a>
