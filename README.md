@@ -3,8 +3,13 @@
 
 - 📫 How to reach me **hasshlomi21@gmail.com**
 
-- ⚡ Fun fact **I've had the incredible opportunity to travel across several Eastern countries, including Thailand, Philippines, India, Sri Lanka, Cambodia, Vietnam, and South Korea. Each destination has enriched my perspective and inspired my creativity.**
+- 🌏 Travel Enthusiast: My love for travel has taken me to several Eastern countries, including Thailand, Philippines, India, Sri Lanka, Cambodia, Vietnam, and South Korea. Each adventure has broadened my horizons and inspired my creativity in both life and coding.
 
+- 👨‍🎓 Computer Science Student: I am currently a third-year Computer Science student, nearing the completion of my degree. Throughout my studies, I have delved into various topics, including Algorithms, Data Structures, and much more. These subjects have not only sharpened my problem-solving skills but also fueled my passion for coding.
+
+- 🌟 Aspiring Full-Stack Developer: As I approach the end of my academic journey, I am eager to enhance my full-stack development skills. I enjoy working on both front-end and back-end technologies and am excited about building dynamic, user-friendly applications
+
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shlomihaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomihaser" height="30" width="40" /></a>
